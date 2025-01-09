@@ -1,0 +1,2 @@
+# -ClimateChangeModeling
+Thisdatasetencompassesover500usercommentscollectedfromhigh-performing  postsonNASA'sFacebookpagededicatedtoclimatechange  (https://web.facebook.com/NASAClimateChange/).Thecomments,gatheredfrom  variouspostsbetween2020and2023,offeradiverserangeofpublicopinionsand  sentimentsaboutclimatechangeandNASA'srelatedactivities.
