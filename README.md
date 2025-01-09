@@ -80,3 +80,22 @@ This project focuses on analyzing user comments from NASA's climate change Faceb
    data = pd.read_csv('climate_nasa.csv')
    print(data.head())
    print(data.describe())
+
+![Screenshot 2025-01-10 004959](https://github.com/user-attachments/assets/29906327-ebcc-45bb-80d6-d8412101d1d9)
+
+![Screenshot 2025-01-10 005027](https://github.com/user-attachments/assets/085a8fee-8e17-47d5-8f62-85612d602876)
+
+
+
+
+![Screenshot 2025-01-10 005043](https://github.com/user-attachments/assets/ec06f1bb-511f-4786-832b-1148b04dbf57)
+
+
+![Screenshot 2025-01-10 005056](https://github.com/user-attachments/assets/5332f244-5495-4a4c-8364-58fe3f702031)
+
+   ![149-1499935_github-logo](https://github.com/user-attachments/assets/8e960a68-2400-4e2a-bbff-85f68b93e6c7)
+
+ ![149-1499935_github-logo](https://wallpaperaccess.com/full/1330786.jpg)
+
+
+
